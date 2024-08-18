@@ -29,9 +29,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/vivianemk/vivianemk/output/snake.svg" alt="Snake animation" />
-
-###
